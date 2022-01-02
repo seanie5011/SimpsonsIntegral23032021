@@ -1,0 +1,12 @@
+C:\Users\seani\source\repos\test\bin\Debug\netcoreapp3.1\test.exe
+C:\Users\seani\source\repos\test\bin\Debug\netcoreapp3.1\test.deps.json
+C:\Users\seani\source\repos\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+C:\Users\seani\source\repos\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+C:\Users\seani\source\repos\test\bin\Debug\netcoreapp3.1\test.dll
+C:\Users\seani\source\repos\test\bin\Debug\netcoreapp3.1\test.pdb
+C:\Users\seani\source\repos\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+C:\Users\seani\source\repos\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+C:\Users\seani\source\repos\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+C:\Users\seani\source\repos\test\obj\Debug\netcoreapp3.1\test.dll
+C:\Users\seani\source\repos\test\obj\Debug\netcoreapp3.1\test.pdb
+C:\Users\seani\source\repos\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
